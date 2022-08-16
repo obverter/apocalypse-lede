@@ -142,10 +142,17 @@ Apply directly to the forehead.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Clarkesworld
+- [ ] Forestry
+- [ ] Kickstarter
+- [ ] Louisana Licenses
+- [ ] Power Plants
+- [ ] Recipes
+- [ ] Refugees
+- [ ] UFO Documents
+- [ ] UN Security Council
+- [ ] Upworthy
+- [ ] Venmo
 
 See the [open issues](https://github.com/obverter/apocalypse-lede/issues) for a full list of proposed features (and known issues) that I'll probably never get around / be knowledgeable enough to address.
 
@@ -184,7 +191,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@obverter](https://twitter.com/@obverter) - email@email_client.com
+Ben Elliott - [@obverter](https://twitter.com/@obverter) - ben@obverter.com
 
 Project Link: [https://github.com/obverter/apocalypse-lede](https://github.com/obverter/apocalypse-lede)
 
